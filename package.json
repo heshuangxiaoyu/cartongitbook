@@ -1,0 +1,23 @@
+{
+  "name": "cartronitbook",
+  "version": "1.0.0",
+  "description": "只是一个动画介绍电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshuangxiaoyu/cartronitbook.git"
+  },
+  "keywords": [],
+  "author": "heshuangxiaoyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heshuangxiaoyu/cartronitbook/issues"
+  },
+  "homepage": "https://github.com/heshuangxiaoyu/cartronitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
